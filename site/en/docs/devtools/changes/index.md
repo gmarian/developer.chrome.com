@@ -51,7 +51,7 @@ To view your changes:
 1. Make changes to your sources:
 
    - HTML: First, enable [Local overrides](/blog/new-in-devtools-65/#overrides), then make changes in **Sources**
-   - CSS in [**Elements** > **Styles**](/docs/devtools/css/#declarations) or [**Sources**](/docs/devtools/javascript/sources/#edit)
+   - CSS in [**Elements** > **Styles** > **New Style Rule** (the + icon)](/docs/devtools/css/#declarations) or [**Sources**](/docs/devtools/javascript/sources/#edit)
    - JavaScript in [**Sources**](/docs/devtools/javascript/sources/#edit)
 
 1. [Open the **Changes** tab](#open-changes) and select a file in the right-hand side of the tab.
